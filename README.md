@@ -4,6 +4,7 @@ A deep learning system that recognises voice commands (yes/no/stop/go)
 from audio clips using a fine-tuned Wav2Vec2 transformer model.
 
 ## Results
+![Final Results](final_results.png)
 
 | Model | Test Accuracy |
 |-------|--------------|
